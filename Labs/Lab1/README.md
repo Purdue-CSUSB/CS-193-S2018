@@ -4,13 +4,13 @@ The purpose of this lab is to teach the basics of using the terminal. After you 
 
 ## The Lab 
 
-Before starting the lab, you might want to check out the [Lecture 1 Cheat Sheet](https://github.com/Purdue-CSUSB/CS-193-F2017/blob/master/Labs/Lab1/lecture01-basic-terminal-commands.md) to review all the common commands. 
+Before starting the lab, you might want to check out the [Lecture 1 Cheat Sheet](https://github.com/Purdue-CSUSB/CS-193-S2018/blob/master/Labs/Lab1/lecture01-basic-terminal-commands.md) to review all the common commands. 
 
 Throughout this lab we will give you specific goals and you will have to write the appropriate command to fulfill that goal. The catch is that **all answers should only contain one command** (`mv`, `cp`, `rm`, etc.). 
 
 
 ### The Magic Command 
-    cd; curl -sL https://raw.githubusercontent.com/Purdue-CSUSB/CS-193-F2017/master/Labs/Lab1/lab1init | bash
+    cd; curl -sL https://raw.githubusercontent.com/Purdue-CSUSB/CS-193-S2018/master/Labs/Lab1/lab1init | bash
 
 When you run the command above, the starting folder structure for this lab will be created in your home `~` directory. If you mess anything up in this lab and want to start over, you can run this command. Be careful though, since this will erase your progress.
 
@@ -65,7 +65,7 @@ There are 6 tasks, and you will write 6 **one line** terminal commands that fulf
 
 **All commands should be recorded in answers.txt.** To download the answer sheet below, right-click on the file and click "Save File As" and save it to your **Downloads** folder.
 
-[answers.txt Download Link](https://raw.githubusercontent.com/Purdue-CSUSB/CS-193-F2017/master/Labs/Lab1/answers.txt)
+[answers.txt Download Link](https://raw.githubusercontent.com/Purdue-CSUSB/CS-193-S2018/master/Labs/Lab1/answers.txt)
 
 > NOTE: Do not save this file within `~/cs193lab1` because that folder and all of its contents will be erased each time you run the "Magic Script"
 
@@ -125,7 +125,6 @@ Solve all 6 of these tasks, and record your answers in the `answers.txt` file.
 
     Working Directory:  ~/cs193lab1/
 
-    Desired Action:     move the dog sounds from the cat/sounds/ folder to dog/sounds/ folder
                         (may not explicitly list files in command)
 
     Write the answer under the Task 3 block. Make sure not to put '#' before your answer.
@@ -194,7 +193,7 @@ Now look at the entire folder structure of your `~/cs193lab1` folder by running 
 
 
 ## More Extra Fun 
-View the [source](https://github.com/Purdue-CSUSB/CS-193-F2017/blob/master/Labs/Lab1/lab1init) of the Magic script. You know almost everything that is going on in this script!
+View the [source](https://github.com/Purdue-CSUSB/CS-193-S2018/blob/master/Labs/Lab1/lab1init) of the Magic script. You know almost everything that is going on in this script!
 
 ----
 
