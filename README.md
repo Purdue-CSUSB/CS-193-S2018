@@ -1,2 +1,2 @@
-# CS-193-F2017
-CS 193 Course Repository for the Fall 2017 Semester.
+# CS-193-S2018
+CS 193 Course Repository for the Spring 2018 Semester.
