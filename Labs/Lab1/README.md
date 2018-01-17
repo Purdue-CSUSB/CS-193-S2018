@@ -125,6 +125,7 @@ Solve all 6 of these tasks, and record your answers in the `answers.txt` file.
 
     Working Directory:  ~/cs193lab1/
 
+    Desired Action:     move the dog sounds from the cat/sounds/ folder to dog/sounds/ folder
                         (may not explicitly list files in command)
 
     Write the answer under the Task 3 block. Make sure not to put '#' before your answer.
