@@ -3,3 +3,5 @@
 [Lecture 2](https://docs.google.com/presentation/d/1C2t4_jCs_mOjf-FJVDREMOQlIngNPOkjVC72aLLKjyE/edit?usp=sharing)
 
 [Lecture 3](https://docs.google.com/presentation/d/1RIthuttd_3qsLpLuvk87GVLikgk13MzLRMGyiYD0PZ4/edit?usp=sharing)
+
+[Lecture 4](https://docs.google.com/presentation/d/1Gj2UcqYcjUIul2avt06LgzE9J24oLKJKcHjKqDPr7t0/edit?usp=sharing)
