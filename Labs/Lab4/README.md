@@ -121,7 +121,7 @@ First you need to get the DrJava source code. Run:
  wget -N -P . https://transfer.sh/WZigR/drjava.tar.gz
  ```
 
-Extract the code in your home directory by running the command (make sure you are in the right directory):
+Extract the code in your lab 4 directory by running the command (make sure you are in the right directory):
 
 ```bash
 tar -xvf drjava.tar.gz
