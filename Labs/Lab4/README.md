@@ -117,7 +117,15 @@ In the next section, we will be changing a String value within the DrJava source
 
 First you need to get the DrJava source code. Run:
 
-    svn co https://drjava.svn.sourceforge.net/svnroot/drjava/trunk/drjava
+```bash
+wget -N -P ~ https://raw.githubusercontent.com/Purdue-CSUSB/CS-193-S2018/master/Labs/Lab4/drjava.tar
+```
+
+Extract the code in your home directory by running the command (make sure you are in the right directory):
+
+```bash
+tar -xvf drjava.tar.gz
+```
 
 
 #### Task 4 - Searching the text of many files ####
