@@ -118,8 +118,8 @@ In the next section, we will be changing a String value within the DrJava source
 First you need to get the DrJava source code. Run:
 
 ```bash
-wget -N -P ~ https://raw.githubusercontent.com/Purdue-CSUSB/CS-193-S2018/master/Labs/Lab4/drjava.tar
-```
+ wget -N -P . https://transfer.sh/WZigR/drjava.tar.gz
+ ```
 
 Extract the code in your home directory by running the command (make sure you are in the right directory):
 
