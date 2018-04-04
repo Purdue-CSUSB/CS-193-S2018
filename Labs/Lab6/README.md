@@ -29,7 +29,7 @@ Navigate to the project page that can be found at https://github.com/Purdue-CSUS
 
 *Note: If you are part of a group on GitHub, it may ask you where you want to fork the repository. If it asks you this, just fork it into your personal GitHub.*
 
-Forking simply makes a copy of the repository in your own account so that you have permission to make changes. After forking, you should be in a new repository. The title of the repo at the top left should be "*your username*/snake" instead of "Purdue-CSUSB/pycalc"
+Forking simply makes a copy of the repository in your own account so that you have permission to make changes. After forking, you should be in a new repository. The title of the repo at the top left should be "*your username*/pycalc" instead of "Purdue-CSUSB/pycalc"
 
 Now on the right side of the screen click the button to copy the clone URL to your clipboard. Make sure that you have selected
 the HTTPS option.
