@@ -9,3 +9,5 @@
 [Lecture 5](https://docs.google.com/presentation/d/1y5Vx3PgAkuQ8D6U0cO34gBcbLe073lfpCjQ3luEEFDM/edit?usp=sharing)
 
 [Lecture 6](https://docs.google.com/presentation/d/1XaZzPWWN9wjxJIel-IHJjZ47ZTFXrd1SlZPqxNLNLqo/edit?usp=sharing)
+
+[Lecture 7](https://docs.google.com/presentation/d/19iXRtdNVkj7ff0zZrZpPxtFATN7qRWP7xM4TVjJHHPw/edit?usp=sharing)
